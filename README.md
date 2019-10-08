@@ -1,0 +1,4 @@
+# ABC
+{
+print=hello.world
+}
