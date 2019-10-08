@@ -1,5 +1,5 @@
 # ABC
 {
-print=hello.world
-This is basic Crogram
+print=("hello.world"):
+print("This is basic C program")
 }
